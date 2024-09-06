@@ -11,7 +11,7 @@ API RESTful para manejar el proceso de venta de entradas para caso de estudio "F
 - Java
 - Spring Boot
 - JPA / Hibernate
-- Base de datos (especificar tipo)
+
 
 ## Funcionalidades Principales
 
